@@ -31,6 +31,11 @@ function handleYesClick() {
   titleElement.innerHTML = "Siiiiii!!!! 😍😍😍";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
+  window.navigator.vibrate(2000);
+  catImg.addEventListener(
+    "dblclick",
+    () => (titleElement.innerHTML = "Hecho con amor por EduardoProfe666🎩")
+  );
 }
 
 function resizeYesButton() {
