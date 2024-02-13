@@ -11,6 +11,14 @@ La idea original fue tomada del [siguiente repo](https://github.com/namdosanwann
 
 Si te gustó deja tu estrellita 🌟
 
-## Despliegue en Render
+## 🖼 Capturas de pantalla
+
+![Inicio](/assets/1.png)
+
+![Medio](/assets/3.png)
+
+![Fin](/assets/2.png)
+
+## 🚀 Despliegue en Render
 
 Para acceder a la página, ingrese al [siguiente enlace](https://perdoname.onrender.com)
